@@ -7,7 +7,7 @@ A robust, enterprise-grade full-stack **Task Manager** application composed of a
 ## ⏱️ Task Timing & Overview
 
 * **Start Time:** ~12:30 PM
-* **Finish Time:** ~4:300 PM
+* **Finish Time:** ~4:30 PM
 * **Total Time Taken:** ~4.5 Hours (within the 4–6 hour expectation)
 * **Status:** 100% Completed & Verified
 
